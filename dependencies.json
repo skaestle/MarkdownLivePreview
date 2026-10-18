@@ -1,7 +1,9 @@
 {
     "*": {
         "*": [
-            "bs4"
+            "bs4",
+            "soupsieve",
+            "typing-extensions"
         ]
     }
 }
